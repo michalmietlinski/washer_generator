@@ -1,0 +1,25 @@
+[
+  {
+    "name": "washer_small",
+    "outerDiameter": 20,
+    "innerDiameter": 6,
+    "thickness": 1.5,
+    "segments": 96,
+    "slice": "full"
+  },
+  {
+    "name": "washer_medium",
+    "outerDiameter": 30,
+    "innerDiameter": 10,
+    "thickness": 2,
+    "slice": "quarter"
+  },
+  {
+    "name": "solid_disk",
+    "outerDiameter": 25,
+    "innerDiameter": 0,
+    "thickness": 3,
+    "slice": "quarter",
+    "output": "special/solid_disk.stl"
+  }
+]

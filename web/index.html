@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Washer STL Generator</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        margin: 2rem;
+        line-height: 1.4;
+      }
+      form {
+        max-width: 28rem;
+        display: grid;
+        gap: 0.75rem;
+      }
+      label {
+        display: grid;
+        gap: 0.25rem;
+      }
+      input,
+      select {
+        padding: 0.4rem;
+        font: inherit;
+      }
+      button {
+        margin-top: 0.5rem;
+        padding: 0.55rem 0.8rem;
+        font: inherit;
+        cursor: pointer;
+      }
+      #status {
+        margin-top: 1rem;
+        white-space: pre-wrap;
+      }
+      .hint {
+        margin: 0.35rem 0 1rem;
+        opacity: 0.8;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Washer STL Generator</h1>
+    <p class="hint">
+      Units are millimeters. Shape has sharp edges in v1. Smoothness = number of segments used to approximate circles.
+    </p>
+
+    <form id="washer-form">
+      <label>
+        Outer diameter (mm)
+        <input id="outer" name="outer" type="number" min="0.000001" step="any" value="30" required />
+      </label>
+
+      <label>
+        Inner diameter (mm, 0 allowed)
+        <input id="inner" name="inner" type="number" min="0" step="any" value="10" required />
+      </label>
+
+      <label>
+        Thickness (mm)
+        <input id="thickness" name="thickness" type="number" min="0.000001" step="any" value="2" required />
+      </label>
+
+      <label>
+        Segments (smoothness)
+        <input id="segments" name="segments" type="number" min="3" step="1" value="128" required />
+      </label>
+
+      <label>
+        Slice mode
+        <select id="slice" name="slice">
+          <option value="full" selected>Full</option>
+          <option value="quarter">Quarter (90 degrees)</option>
+        </select>
+      </label>
+
+      <button type="submit">Generate & Download STL</button>
+    </form>
+
+    <div id="status">Ready.</div>
+
+    <script src="./main.js"></script>
+  </body>
+</html>

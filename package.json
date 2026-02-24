@@ -1,0 +1,10 @@
+{
+  "name": "stl-experiment",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node src/cli/index.js",
+    "web": "node tools/serve-web.js"
+  }
+}

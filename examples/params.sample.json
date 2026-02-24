@@ -1,0 +1,7 @@
+{
+  "outerDiameter": 30,
+  "innerDiameter": 10,
+  "thickness": 2,
+  "segments": 128,
+  "slice": "full"
+}
