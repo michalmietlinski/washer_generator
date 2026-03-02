@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "generate": "node src/cli/index.js",
-    "web": "node tools/serve-web.js"
+    "prepare-batch": "node tools/prepare_batch.js",
+    "web": "node tools/serve-web.js",
+    "build-web": "node tools/build_web.js"
   }
 }

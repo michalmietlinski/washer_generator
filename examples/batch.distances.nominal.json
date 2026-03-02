@@ -1,0 +1,818 @@
+[
+  {
+    "name": "inner_03_outer_06_height_04",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 4
+  },
+  {
+    "name": "inner_03_outer_06_height_05",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 5
+  },
+  {
+    "name": "inner_03_outer_06_height_06",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 6
+  },
+  {
+    "name": "inner_03_outer_06_height_07",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 7
+  },
+  {
+    "name": "inner_03_outer_06_height_08",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 8
+  },
+  {
+    "name": "inner_03_outer_06_height_09",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 9
+  },
+  {
+    "name": "inner_03_outer_06_height_10",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 10
+  },
+  {
+    "name": "inner_03_outer_06_height_12",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 12
+  },
+  {
+    "name": "inner_03_outer_06_height_14",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 14
+  },
+  {
+    "name": "inner_03_outer_06_height_16",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 16
+  },
+  {
+    "name": "inner_03_outer_06_height_18",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 18
+  },
+  {
+    "name": "inner_03_outer_06_height_20",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 20
+  },
+  {
+    "name": "inner_03_outer_06_height_22",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 22
+  },
+  {
+    "name": "inner_03_outer_06_height_24",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 24
+  },
+  {
+    "name": "inner_03_outer_06_height_26",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 26
+  },
+  {
+    "name": "inner_03_outer_06_height_28",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 28
+  },
+  {
+    "name": "inner_03_outer_06_height_30",
+    "innerDiameter": 3,
+    "outerDiameter": 6,
+    "thickness": 30
+  },
+  {
+    "name": "inner_04_outer_07_height_04",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 4
+  },
+  {
+    "name": "inner_04_outer_07_height_05",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 5
+  },
+  {
+    "name": "inner_04_outer_07_height_06",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 6
+  },
+  {
+    "name": "inner_04_outer_07_height_07",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 7
+  },
+  {
+    "name": "inner_04_outer_07_height_08",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 8
+  },
+  {
+    "name": "inner_04_outer_07_height_09",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 9
+  },
+  {
+    "name": "inner_04_outer_07_height_10",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 10
+  },
+  {
+    "name": "inner_04_outer_07_height_12",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 12
+  },
+  {
+    "name": "inner_04_outer_07_height_14",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 14
+  },
+  {
+    "name": "inner_04_outer_07_height_16",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 16
+  },
+  {
+    "name": "inner_04_outer_07_height_18",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 18
+  },
+  {
+    "name": "inner_04_outer_07_height_20",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 20
+  },
+  {
+    "name": "inner_04_outer_07_height_22",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 22
+  },
+  {
+    "name": "inner_04_outer_07_height_24",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 24
+  },
+  {
+    "name": "inner_04_outer_07_height_26",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 26
+  },
+  {
+    "name": "inner_04_outer_07_height_28",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 28
+  },
+  {
+    "name": "inner_04_outer_07_height_30",
+    "innerDiameter": 4,
+    "outerDiameter": 7,
+    "thickness": 30
+  },
+  {
+    "name": "inner_05_outer_08_height_04",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 4
+  },
+  {
+    "name": "inner_05_outer_08_height_05",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 5
+  },
+  {
+    "name": "inner_05_outer_08_height_06",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 6
+  },
+  {
+    "name": "inner_05_outer_08_height_07",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 7
+  },
+  {
+    "name": "inner_05_outer_08_height_08",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 8
+  },
+  {
+    "name": "inner_05_outer_08_height_09",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 9
+  },
+  {
+    "name": "inner_05_outer_08_height_10",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 10
+  },
+  {
+    "name": "inner_05_outer_08_height_12",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 12
+  },
+  {
+    "name": "inner_05_outer_08_height_14",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 14
+  },
+  {
+    "name": "inner_05_outer_08_height_16",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 16
+  },
+  {
+    "name": "inner_05_outer_08_height_18",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 18
+  },
+  {
+    "name": "inner_05_outer_08_height_20",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 20
+  },
+  {
+    "name": "inner_05_outer_08_height_22",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 22
+  },
+  {
+    "name": "inner_05_outer_08_height_24",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 24
+  },
+  {
+    "name": "inner_05_outer_08_height_26",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 26
+  },
+  {
+    "name": "inner_05_outer_08_height_28",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 28
+  },
+  {
+    "name": "inner_05_outer_08_height_30",
+    "innerDiameter": 5,
+    "outerDiameter": 8,
+    "thickness": 30
+  },
+  {
+    "name": "inner_06_outer_09_height_04",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 4
+  },
+  {
+    "name": "inner_06_outer_09_height_05",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 5
+  },
+  {
+    "name": "inner_06_outer_09_height_06",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 6
+  },
+  {
+    "name": "inner_06_outer_09_height_07",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 7
+  },
+  {
+    "name": "inner_06_outer_09_height_08",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 8
+  },
+  {
+    "name": "inner_06_outer_09_height_09",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 9
+  },
+  {
+    "name": "inner_06_outer_09_height_10",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 10
+  },
+  {
+    "name": "inner_06_outer_09_height_12",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 12
+  },
+  {
+    "name": "inner_06_outer_09_height_14",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 14
+  },
+  {
+    "name": "inner_06_outer_09_height_16",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 16
+  },
+  {
+    "name": "inner_06_outer_09_height_18",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 18
+  },
+  {
+    "name": "inner_06_outer_09_height_20",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 20
+  },
+  {
+    "name": "inner_06_outer_09_height_22",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 22
+  },
+  {
+    "name": "inner_06_outer_09_height_24",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 24
+  },
+  {
+    "name": "inner_06_outer_09_height_26",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 26
+  },
+  {
+    "name": "inner_06_outer_09_height_28",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 28
+  },
+  {
+    "name": "inner_06_outer_09_height_30",
+    "innerDiameter": 6,
+    "outerDiameter": 9,
+    "thickness": 30
+  },
+  {
+    "name": "inner_07_outer_10_height_04",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 4
+  },
+  {
+    "name": "inner_07_outer_10_height_05",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 5
+  },
+  {
+    "name": "inner_07_outer_10_height_06",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 6
+  },
+  {
+    "name": "inner_07_outer_10_height_07",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 7
+  },
+  {
+    "name": "inner_07_outer_10_height_08",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 8
+  },
+  {
+    "name": "inner_07_outer_10_height_09",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 9
+  },
+  {
+    "name": "inner_07_outer_10_height_10",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 10
+  },
+  {
+    "name": "inner_07_outer_10_height_12",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 12
+  },
+  {
+    "name": "inner_07_outer_10_height_14",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 14
+  },
+  {
+    "name": "inner_07_outer_10_height_16",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 16
+  },
+  {
+    "name": "inner_07_outer_10_height_18",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 18
+  },
+  {
+    "name": "inner_07_outer_10_height_20",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 20
+  },
+  {
+    "name": "inner_07_outer_10_height_22",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 22
+  },
+  {
+    "name": "inner_07_outer_10_height_24",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 24
+  },
+  {
+    "name": "inner_07_outer_10_height_26",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 26
+  },
+  {
+    "name": "inner_07_outer_10_height_28",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 28
+  },
+  {
+    "name": "inner_07_outer_10_height_30",
+    "innerDiameter": 7,
+    "outerDiameter": 10,
+    "thickness": 30
+  },
+  {
+    "name": "inner_08_outer_11_height_04",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 4
+  },
+  {
+    "name": "inner_08_outer_11_height_05",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 5
+  },
+  {
+    "name": "inner_08_outer_11_height_06",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 6
+  },
+  {
+    "name": "inner_08_outer_11_height_07",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 7
+  },
+  {
+    "name": "inner_08_outer_11_height_08",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 8
+  },
+  {
+    "name": "inner_08_outer_11_height_09",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 9
+  },
+  {
+    "name": "inner_08_outer_11_height_10",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 10
+  },
+  {
+    "name": "inner_08_outer_11_height_12",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 12
+  },
+  {
+    "name": "inner_08_outer_11_height_14",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 14
+  },
+  {
+    "name": "inner_08_outer_11_height_16",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 16
+  },
+  {
+    "name": "inner_08_outer_11_height_18",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 18
+  },
+  {
+    "name": "inner_08_outer_11_height_20",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 20
+  },
+  {
+    "name": "inner_08_outer_11_height_22",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 22
+  },
+  {
+    "name": "inner_08_outer_11_height_24",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 24
+  },
+  {
+    "name": "inner_08_outer_11_height_26",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 26
+  },
+  {
+    "name": "inner_08_outer_11_height_28",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 28
+  },
+  {
+    "name": "inner_08_outer_11_height_30",
+    "innerDiameter": 8,
+    "outerDiameter": 11,
+    "thickness": 30
+  },
+  {
+    "name": "inner_09_outer_12_height_04",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 4
+  },
+  {
+    "name": "inner_09_outer_12_height_05",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 5
+  },
+  {
+    "name": "inner_09_outer_12_height_06",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 6
+  },
+  {
+    "name": "inner_09_outer_12_height_07",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 7
+  },
+  {
+    "name": "inner_09_outer_12_height_08",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 8
+  },
+  {
+    "name": "inner_09_outer_12_height_09",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 9
+  },
+  {
+    "name": "inner_09_outer_12_height_10",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 10
+  },
+  {
+    "name": "inner_09_outer_12_height_12",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 12
+  },
+  {
+    "name": "inner_09_outer_12_height_14",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 14
+  },
+  {
+    "name": "inner_09_outer_12_height_16",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 16
+  },
+  {
+    "name": "inner_09_outer_12_height_18",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 18
+  },
+  {
+    "name": "inner_09_outer_12_height_20",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 20
+  },
+  {
+    "name": "inner_09_outer_12_height_22",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 22
+  },
+  {
+    "name": "inner_09_outer_12_height_24",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 24
+  },
+  {
+    "name": "inner_09_outer_12_height_26",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 26
+  },
+  {
+    "name": "inner_09_outer_12_height_28",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 28
+  },
+  {
+    "name": "inner_09_outer_12_height_30",
+    "innerDiameter": 9,
+    "outerDiameter": 12,
+    "thickness": 30
+  },
+  {
+    "name": "inner_10_outer_13_height_04",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 4
+  },
+  {
+    "name": "inner_10_outer_13_height_05",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 5
+  },
+  {
+    "name": "inner_10_outer_13_height_06",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 6
+  },
+  {
+    "name": "inner_10_outer_13_height_07",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 7
+  },
+  {
+    "name": "inner_10_outer_13_height_08",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 8
+  },
+  {
+    "name": "inner_10_outer_13_height_09",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 9
+  },
+  {
+    "name": "inner_10_outer_13_height_10",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 10
+  },
+  {
+    "name": "inner_10_outer_13_height_12",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 12
+  },
+  {
+    "name": "inner_10_outer_13_height_14",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 14
+  },
+  {
+    "name": "inner_10_outer_13_height_16",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 16
+  },
+  {
+    "name": "inner_10_outer_13_height_18",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 18
+  },
+  {
+    "name": "inner_10_outer_13_height_20",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 20
+  },
+  {
+    "name": "inner_10_outer_13_height_22",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 22
+  },
+  {
+    "name": "inner_10_outer_13_height_24",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 24
+  },
+  {
+    "name": "inner_10_outer_13_height_26",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 26
+  },
+  {
+    "name": "inner_10_outer_13_height_28",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 28
+  },
+  {
+    "name": "inner_10_outer_13_height_30",
+    "innerDiameter": 10,
+    "outerDiameter": 13,
+    "thickness": 30
+  }
+]

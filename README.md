@@ -1,6 +1,24 @@
 # Washer STL Generator (Pure JavaScript)
 
-This project generates STL files for a permanent shape: a washer (annulus).
+Not everyone knows CAD, so this generator lets you create different washer sizes without modeling them yourself. Pick inner and outer diameter and thickness, and get an STL—or run a batch to generate hundreds of permutations at once.
+
+**Dimensions (millimeters):**
+
+- **Inner diameter (hole):** any value you need; the included batches use 3–10 mm (integer) for nominal, and the same sizes + 0.2 mm for tolerance variants (outer unchanged).
+- **Outer diameter:** any value > inner; the included batches use outer = inner + 3 mm.
+- **Thickness:** any value; the included batches use 4–10 mm (1 mm step) and 10–30 mm (2 mm step).
+
+**Printing:**
+
+- **Orientation:** Flat side on the build plate (no supports).
+- **Layer height:** 0.2 mm or finer recommended for thin washers.
+- **Material:** PLA, PETG, or similar; dimensions are tuned for FDM.
+
+**Get it:** [github.com/michalmietlinski/washer_generator](https://github.com/michalmietlinski/washer_generator)
+
+---
+
+This project generates STL files for a washer (annulus). All dimensions are in millimeters.
 
 ## Shape parameters
 
@@ -45,6 +63,24 @@ Generate many STL files from one JSON array:
 
 ```bash
 npm run generate -- --input examples/batch.sample.json --output-dir output/batch --segments 128
+```
+
+**Pre-generated distance batches** (inner/outer/thickness grids):
+
+```bash
+npm run prepare-batch
+```
+
+This writes:
+
+- `examples/batch.distances.nominal.json` — inner 3–10 mm, outer = inner + 3 mm, thickness 4–10 step 1 mm, 10–30 step 2 mm
+- `examples/batch.distances.tolerance.json` — same (inner, outer) pairs as nominal but inner + 0.2 mm (136 items; for a separate output directory)
+
+Then generate STLs:
+
+```bash
+npm run generate -- --input examples/batch.distances.nominal.json --output-dir output/nominal
+npm run generate -- --input examples/batch.distances.tolerance.json --output-dir output/tolerance
 ```
 
 Batch JSON format (`--input`):
