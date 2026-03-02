@@ -186,6 +186,11 @@
         a {
           color: #60a5fa;
         }
+        input,
+        select {
+          background: rgba(15, 23, 42, 0.9);
+          border-color: #4b5563;
+        }
       }
       .footer {
         margin-top: 0.5rem;
@@ -235,7 +240,7 @@
 
             <label>
               Slice mode
-              <select id="slice" name="slice">
+              <select id="slice" name="slice" class="slice-select">
                 <option value="full" selected>Full</option>
                 <option value="quarter">Quarter (90 degrees)</option>
               </select>
@@ -245,8 +250,10 @@
           </form>
 
           <div id="status">
-            <div class="status-label">Status</div>
-            <div class="status-body">Ready.</div>
+            <div class="status-label">Output</div>
+            <div class="status-body">
+              Choose your dimensions and click “Generate &amp; Download STL” to create a washer file.
+            </div>
           </div>
         </section>
 
@@ -278,6 +285,14 @@
                 target="_blank"
                 rel="noopener noreferrer"
                 >Adapters collection with generator (distances, plant pot covers, adapters)</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.printables.com/model/1615679-distances-collection-3-10-mm-height-4-30mm"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Distances collection 3–10&nbsp;mm, height 4–30&nbsp;mm</a
               >
             </li>
           </ul>
