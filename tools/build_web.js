@@ -16,12 +16,12 @@ async function copyFileRelative(from, toDir) {
 }
 
 async function main() {
-  await copyFileRelative("web/index.html", "dist");
-  await copyFileRelative("web/main.js", "dist");
+  await copyFileRelative("web/index.html", "docs");
+  await copyFileRelative("web/main.js", "docs");
   // If you add assets (CSS, icons, etc.), copy them here too.
-  // Example: await copyFileRelative("web/styles.css", "dist");
+  // Example: await copyFileRelative("web/styles.css", "docs");
 
-  console.log("Web assets copied to dist/. You can publish the dist/ folder with GitHub Pages.");
+  console.log("Web assets copied to docs/. You can publish the docs/ folder with GitHub Pages.");
 }
 
 main().catch((error) => {
